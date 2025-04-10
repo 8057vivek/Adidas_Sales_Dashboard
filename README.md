@@ -1,9 +1,8 @@
 ---
 title: "Adidas US Sales Power BI Dashboard"
-output: github_document
 ---
 
-![](./assets/Screenshot%202025-04-10%20215816.png)
+![](dashBoardImage)
 
 # 📊 Adidas US Sales Power BI Dashboard
 
